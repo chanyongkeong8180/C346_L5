@@ -68,8 +68,8 @@ const styles = StyleSheet.create({
         textAlign: 'left'
     },
     imageStyle: {
-        width: '90%',
-        height: 500,
+        width: 200,
+        height: 300,
         alignSelf: 'flex-end',
         margin: 10
     },
